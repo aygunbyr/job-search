@@ -1,3 +1,13 @@
+# Job Search App
+
+I developed this project for educational purposes. Followed [this tutorial](https://www.youtube.com/watch?v=7Aq2PE_Z8Po) created by IsraTech from YouTube. This is a very good example of TailwindCSS usage.
+
+Different from that, I used Next.js & Typescript.
+
+Thank you for your interest.
+
+## Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
