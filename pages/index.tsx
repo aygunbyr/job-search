@@ -17,7 +17,7 @@ export default function Home() {
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <main className='bg-gradient-to-r from-gray-200 to-blue-200 h-screen text-gray-700'>
+      <main className='bg-gradient-to-r bg-white h-screen text-gray-700'>
         <div className='w-[85%] m-auto bg-white'>
           <Navbar />
           <Search />
