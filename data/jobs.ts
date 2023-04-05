@@ -1,0 +1,38 @@
+export const Jobs = [
+    {
+        id: 1,
+        image: '/assets/Amazon_icon.svg',
+        title: 'Web Developer',
+        time: 'Now',
+        location: 'Canada',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, minima.',
+        company: 'Amazon.com, Inc.',
+    },
+    {
+        id: 2,
+        image: '/assets/TTKOM.IS.png',
+        title: 'Data Scientist',
+        time: '2Days',
+        location: 'Turkey',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, minima.',
+        company: 'Türk Telekom',
+    },
+    {
+        id: 3,
+        image: '/assets/Mercedes-Logo.svg',
+        title: 'Software Eng.',
+        time: '10Hrs',
+        location: 'Austria',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, minima.',
+        company: 'Mercedes-Benz',
+    },
+    {
+        id: 4,
+        image: '/assets/Coat_of_arms_of_Germany.svg',
+        title: 'UI/UX Designer',
+        time: '10Hrs',
+        location: 'Germany',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, minima.',
+        company: 'Government',
+    },
+]
